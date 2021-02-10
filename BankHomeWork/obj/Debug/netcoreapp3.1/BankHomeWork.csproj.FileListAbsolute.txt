@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.exe
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.deps.json
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.runtimeconfig.json
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.dll
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\bin\Debug\netcoreapp3.1\BankHomeWork.pdb
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.dll
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.pdb
+C:\Users\ASUS\source\repos\KampIntro\BankHomeWork\obj\Debug\netcoreapp3.1\BankHomeWork.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.exe
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.deps.json
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.runtimeconfig.json
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.dll
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\bin\Debug\netcoreapp3.1\DictHomeWork.pdb
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.dll
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.pdb
+C:\Users\ASUS\source\repos\KampIntro\DictHomeWork\obj\Debug\netcoreapp3.1\DictHomeWork.genruntimeconfig.cache
